@@ -1,0 +1,85 @@
+/*General css in order to style the page. */
+
+body {
+    font-family: "Lato", sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+/* Text related classes */
+
+.title-super {
+    margin: 25px 0 0 25px;
+    font-size: 60px;
+    color: #2d3c49;
+}
+
+.text-thin {
+    font-weight: 300;
+}
+
+.sub-title {
+    color: #2d3c49;
+}
+
+.feature-title {
+    width: 100%;
+    font-weight: 600;
+    color: #7d97ad;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.image-caption {
+    color: #2d3c49;
+    font-weight: bold;
+    text-align: center;
+}
+
+.image-url {    
+    font-size: 15px;
+    margin: 0;
+    text-align: center;
+}
+
+.image-url-color {
+    text-decoration: none;
+    color: #2d3c49;
+}
+
+/*Div related Classes*/
+
+.main-image-div {
+    width: 100%;
+    margin: auto;
+}
+
+.bottom-part-div {
+    width: 100%;
+    float: left;
+}
+
+.bottom-images-div {
+    width: 33.33%;
+    margin: auto;
+    float: left;
+}
+
+/* Images' related classes */
+
+.title-logo {
+    margin: 30px;
+    width: 80px;
+}
+
+.main-image {
+    width: 100%;
+    float: left;
+}
+
+.bottom-image {
+    width: 95%;
+}
+
