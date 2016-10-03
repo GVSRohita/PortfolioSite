@@ -1,0 +1,21 @@
+{
+  "name": "LearnGrunt",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "hp1",
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-responsive-images": "^0.1.9"
+  }
+}
